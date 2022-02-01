@@ -26,13 +26,13 @@ class Scripted(object):
     ABOUT_TEXT = """
 ╭────[🔅Rᴇɴᴀᴍᴇʀ Bᴏᴛ🔅]───⍟
 │
-├<b>🤖 Bot Name : <a href='https://t.me/teleroid_renamer_bot'>Rename X2 Bot</a></b>
+├<b>🤖 Bot Name : <a href='https://t.me/Rename_CD_probot'>Rename CD Bot</a></b>
 │
-├<b>📢 Channel : <a href='https://t.me/TeleRoidGroup'>@TeleRoidGroup</a></b>
+├<b>📢 Channel : <a href='https://t.me/cinema_daddy_cd'>cinema_daddy</a></b>
 │
-├<b>👥 Version : <a href='https://t.me/TeleRoid_Renamer_bot'>0.9.2 beta</a></b>
+├<b>👥 Version : <a href='https://t.me/Rename_CD_probot'>0.9.2 beta</a></b>
 │
-├<b>💢 Source : <a href='https://github.com/PredatorHackerzZ/Renamer-bot'>Click Here</a></b>
+├<b>💢 Source : <a href='https://github.com'>Click Here</a></b>
 │
 ├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
 │
@@ -40,11 +40,11 @@ class Scripted(object):
 │
 ├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
 │
-├<b>👨‍💻 Developer : <a href='https://t.me/PredatorHackerZ'>Pred∆tor</a></b>
+├<b>👨‍💻 Developer : <a href='https://t.me/BRUNOKLM'>BRÙÑÒ</a></b>
 │
-├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>@HindiWebNetwork</a></b>
+├<b>🚸 Powered By : <a href='https://t.me/cinema_daddy_group'>CINEMA_DADDY</a></b>
 │
-╰──────[Thanks 😊]───⍟"""
+╰──────[CINEMA DADDY]───⍟"""
 
     CUSTOM_CAPTION = "<i>{}</i>"
     ACCESS_DENIED = "<b>¥ou Are Banned 🚫</b>"
@@ -55,12 +55,12 @@ class Scripted(object):
     THUMBNAIL_DELETED = "<i>𝐘𝐨𝐮𝐫 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐃𝐞𝐥𝐞𝐭𝐞𝐝 ✅</i>"
     NO_THUMBNAIL_FOUND = "<i>(Konsi Gaali Chahiye)</i>"
     TRYING_TO_DOWNLOAD = "<i>Trying to Download....</i>"
-    UPLOAD_SUCCESS = "<u><i>Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ ᴍᴇ❤ Join @TheTeleRoid</i></u>"
+    UPLOAD_SUCCESS = "<u><i>Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ ᴍᴇ❤ Join @cinema_daddy_cd</i></u>"
     REPLY_TO_MEDIA = "<i>Reply to Media For Converting with Command /convert</i>"
     UPLOAD_START = "<i>📤 Uploading Your File Please wait...</i>\n"
     DOWNLOAD_START = "<i>📥 Downloading Your File Please wait...</i>\n"
     JOIN_NOW_TEXT = "<code>First Join My Updates Channel to Use Me</code>"
     REPLY_TO_FILE = "<i>Reply to that media with /rename new name .ext</i>"
-    CONTACT_MY_DEVELOPER = "<i>Something Went Wrong! Contact in Support Group @TeleRoid14 for Help. </i>"
+    CONTACT_MY_DEVELOPER = "<i>Something Went Wrong! Contact in Support Group @cinema_daddy_cd for New movies. </i>"
     START_TEXT = "<i>This is a Fastest File Renamer and Converter Bot With Permanant Thumbnail Support💯</i>"
-    UPGRADE_TEXT = "<b>To upgrade your subscription <a href='https://t.me/HelplessBoi'>[Click Here]</a></b>"
+    UPGRADE_TEXT = "<b>To upgrade your subscription <a href='https://t.me/BRUNOKLM'>[Click Here]</a></b>"
